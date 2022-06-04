@@ -1,0 +1,5 @@
+film: Дневник памяти
+series: Офиc
+food: Банан
+timeoftheyear: Весна
+coutry: Грузия
