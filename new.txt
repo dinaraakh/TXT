@@ -1,4 +1,4 @@
 Full_name: Ахмадеева Динара Д.
-Age: 25,
-Pets: 2,
+Age: 25
+Pets: 2
 Salary: 70
